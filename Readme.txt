@@ -4,7 +4,7 @@ The purpose of this program is to allow the user to access and traverse through 
 
 2. Developers and develop date:
 
-Developer: William Marcus, Student ID: 101219545
+Developer: William Marcus
 Date: Friday, November 4th 2022
 
 3. Organization:
